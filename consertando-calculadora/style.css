@@ -1,0 +1,27 @@
+*{
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: #83c5be;
+    flex-direction: column;
+}
+
+body{
+    flex-direction: column;
+}
+
+h1{
+    font-size: 25px;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    flex-direction: column;
+}
+
+input{
+    margin-top: 0px;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
